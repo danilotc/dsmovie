@@ -35,7 +35,7 @@ public class Movie {
 		this.count = count;
 		this.image = image;
 	}
-
+	
 	public Long getId() {
 		return id;
 	}
